@@ -16,10 +16,10 @@
 	/*You can modify it as you want .More - http://www.owlgraphic.com/owlcarousel/index.html#customizing */
 
 	/*==========  TEXTILLATE TEXT SLIDING ACTIVATOR  ==========*/
-	$('.wodry').wodry({
+	$('.wodry').textillate({
 
     //Set your settings
-     animation:'rotateX'
+     animation:'fadeInLeftBig'
 
 	});
 	/*You can modify effect and timing for text sliding.More - http://daynin.github.io/wodry/#settings*/
