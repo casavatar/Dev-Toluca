@@ -218,7 +218,7 @@ li {
 }
 
 .color-overlay {
-  background: rgba(0, 0, 0, 0.69) none repeat scroll 0 0;
+  background: rgba(254, 251, 251, 0.75) none repeat scroll 0 0;
 }
 .standard-button:hover, .standard-button:active, .standard-button:focus{
 	text-decoration: none;
@@ -398,13 +398,20 @@ h6 {
   background: rgba(0, 0, 0, 0) url("../images/header-bg.jpg") no-repeat fixed center center / cover ;
 }
 
+.header-logo img {
+	width: 212px;
+}
+
 .header-text {
   margin-bottom: 70px;
   margin-top: 70px;
   padding:10px;
 }
 .header-text h1{
-	color: #fff;
+	color: #5f087e;
+}
+.header-text h3{
+	color: #5f087e;
 }
 
 .header-text h4 {
